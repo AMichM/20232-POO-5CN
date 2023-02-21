@@ -29,7 +29,7 @@ public class Main {
         System.out.println("*******************");
         System.out.print("Ingrese su edad: "); // Promt >> Mensaje para indicar que hacer
         int edad = 0;
-        int cont = 1;
+        int cont = 0;
         do {
             try {
                 edad = new Scanner(System.in).nextInt();
