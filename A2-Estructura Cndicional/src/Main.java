@@ -37,7 +37,7 @@ public class Main {
                 e.printStackTrace();
             }
             cont++;
-        }while(cont == 3);
+        }while(cont <= 3);
 //        edad = new Scanner(System.in).nextInt();
 //        System.out.println("Tu edad es: " + edad);
 
